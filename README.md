@@ -5,9 +5,10 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 
 ## Process
 The following steps were taken for this project:
-- An ETL Function was developed and tested to read 3 datafiles in various formats to create CVS files to load into our DB.
+- An ETL Function was developed and tested to read 3 datafiles in various formats to create CSV files to load into our DB.
 - Extract and Transform Wikipedia movie data.
-- Extract and Transfrom Kaggle movie data.
+- Extract and Transform Kaggle movie data.
+- Extract and Transform Kaggle ratings data.
 - Create a movie datbase with tables loaded from Wikipedia and Kaggle.
 
 ## Supporting Files/Folders
