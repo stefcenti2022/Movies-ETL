@@ -7,6 +7,7 @@ config.py
 # Misc. Files and Folders
 ###########################
 practice
+Data
 the_movies_dataset
 movies_metadata.csv
 ratings.csv
