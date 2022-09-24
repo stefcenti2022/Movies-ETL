@@ -41,6 +41,7 @@ The folling image shows a snapshot of the ratings for the first 10 movies in the
 <img src="./images/movies_metadata_1.png" alt="movies snapshot 1" width="600"/>
 
 This image shows a sample of the ratings for movie id 110. Note that there are thousands of records for this one movie. The ratings table allows the hack-a-thon participants to have this finer level of detail without bogging down the main movies table which contains the most pertinent data for each movie.
+
 <img src="./images/movies_metadata_2.png" alt="movies snapshot 2" width="600"/>
 
 
