@@ -23,7 +23,14 @@ This folder contains the CSV files that were used to populate the movie database
 - wikipedia-movies.json: original file with movie data downloaded from wikipedia.
 
 ### Images
-Images used in this readme to describe the tables to be used for the hack-a-thon.
+This folder contains the images used below to describe the tables to be used for the hack-a-thon.
+
+### Top Level Files
+- ETL_function_test.ipynb: original notebook to test our etl_movie_data to read in the CSV files passed in with args.
+- ETL_clean_wiki_movies.ipynb: adds code to the etl_movie_data function to extract and transform wikipedia movie data.
+- ETL_clean_kaggle_data.ipynb: adds code to the etl_movie_data function to extract and transform the kaggle and movielens data.
+- ETL_create_database.ipynb: This is the final notebook to be used by the hack-a-thon users.
+- Movielens_Extract.ipynb: This is another test notebook where several steps of the transformation process that were refactored for the process can be referenced for further information if needed for enhancements or fixes to the code base.
 
 ## Movies Table MetaData
 
